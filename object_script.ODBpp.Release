@@ -1,0 +1,11 @@
+release/main.o
+release/mainwindow.o
+release/mycheckbox.o
+release/netlist.o
+release/newlayer.o
+release/odbppdrawer.o
+release/layer.o
+release/server.o
+release/moc_mainwindow.o
+release/moc_mycheckbox.o
+release/moc_server.o
