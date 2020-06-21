@@ -1,7 +1,0 @@
-*script*
-*.user*
-Make*
-*.stash
-/tmp
-/release
-/debug
